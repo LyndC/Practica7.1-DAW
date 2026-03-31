@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/practica7.1-DAW:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/practica7.1-daw:latest
